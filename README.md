@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aaron
+- my work git https://github.com/shawsa-artc
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning primary school math
 - 💞️ I’m looking to collaborate on nothing
